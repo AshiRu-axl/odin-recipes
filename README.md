@@ -1,2 +1,2 @@
 # odin-recipes
-html practice from TOP
+Any new skills, but a huge change on mentality.
